@@ -11,3 +11,7 @@ When she finds that the app failed to work or she clicked the wrong coupon, she'
 - use UI to click open grocery digital coupon page for Jewel or Mariano's on mobile browser
 - click on item after app searches for the specified item keyword
 
+###App entirely vibe coded:
+- ChatGPT
+- Expo Snacks to preview / test mobile app
+
