@@ -15,3 +15,5 @@ When she finds that the app failed to work or she clicked the wrong coupon, she'
 - ChatGPT
 - Expo Snacks to preview / test mobile app
 
+You can access mobile app through Expo here: https://snack.expo.dev/@usmanakhter/groceryitemclicker
+
